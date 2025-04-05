@@ -142,4 +142,4 @@ def fetch_all_leetcode_data(username):
     print(f"✅ All data saved to {username}_leetcode_data.json")
 
 # Usage
-fetch_all_leetcode_data("mandartule")
+fetch_all_leetcode_data("Your_User_Name_of_Leetcode")
