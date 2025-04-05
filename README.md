@@ -1,4 +1,4 @@
-# 📊LeetCode Data Fetcher 🧠
+# 📊 LeetCode Data Fetcher 🧠
 
 This Python script allows you to fetch detailed LeetCode user statistics using GraphQL. It collects and organizes valuable insights such as profile information, solved problems, contest history, badges, and language usage—all in one place.
 
